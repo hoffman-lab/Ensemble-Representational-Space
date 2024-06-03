@@ -87,4 +87,4 @@ The task is described [in this paper](https://www.biorxiv.org/content/10.1101/20
 
 Funding: Whitehall Foundation and NINDS R01 NS127128
 
-The lab has some limited openings for students and postdoctoral fellows. If interested, reach out to Richard Song (richard.w.song@vanderbilt.edu) during BrainHack, or contact Kari Hoffman (kari.hoffman@vanderbilt.edu) aftewards for more info.
+The lab has some limited openings for students and postdoctoral fellows. If interested, contact Kari Hoffman (kari.hoffman@vanderbilt.edu) for more info.
