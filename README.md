@@ -19,6 +19,13 @@ Here's an illustration to highlight the collective patterns of activity of [neur
 4. See if you can analyze the [structural index](https://github.com/PridaLab/structure_index) within our data. Briefly, this is a method to quantify representational structure in a neural manifold. 
 5. You can also try a supervised dimensionality reduction algorithm called [CEBRA](https://cebra.ai/docs/index.html). CEBRA uses neural networks to create a latent space representation of neural data. The supervised contrastive loss function will minimize the distance between ensemble data points that share similar behavioral labels, thereby contrasting data points with dissimilar labels. If neural ensemble data drifts in time even as single unit recording is mechanically stable, then how does scrambling timepoints across cells (creating pseudo-ensemble data points) alter the manifold dimensionality? Is there still drift? You can try comparing the structural index of a CEBRA generated manifold with and without timepoint scrambling. 
 
+# Recommended Tutorials and Demos
+## PCA and linear methods
+[basic PCA visualization, graphic demo](https://setosa.io/ev/principal-component-analysis/)
+## Nonlinear methods
+[for tSNE vs UMAP](https://pair-code.github.io/understanding-umap/)
+
+
 # References
 The data come from recordings described [in this paper](https://doi.org/10.1016/j.celrep.2024.114519) (Abbaspoor and Hoffman, Cell Reports, 2024).
 
