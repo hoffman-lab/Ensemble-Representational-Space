@@ -21,10 +21,14 @@ Here's an illustration to highlight the collective patterns of activity of [neur
 
 # Recommended Tutorials and Demos
 ## PCA and linear methods
-[basic PCA visualization, graphic demo](https://setosa.io/ev/principal-component-analysis/)
+[PCA visualization](https://setosa.io/ev/principal-component-analysis/) 
+
+Intuitive graphic demo hi-dimensions to low-D projections, 2-D and 3-D
+
 ## Nonlinear methods
 [for tSNE vs UMAP](https://pair-code.github.io/understanding-umap/)
 
+Side by side comparisons you can explore
 
 # References
 The data come from recordings described [in this paper](https://doi.org/10.1016/j.celrep.2024.114519) (Abbaspoor and Hoffman, Cell Reports, 2024).
@@ -34,6 +38,9 @@ The task is described [in this paper](https://www.biorxiv.org/content/10.1101/20
 # Acknowledgements 
 Funding: Whitehall Foundation and NINDS R01 NS127128 to KLH
 The lab has some limited openings for postdoctoral fellows. If interested, contact Kari Hoffman (kari.hoffman@vanderbilt.edu) for more info, or:
+
 X: @perpl_lab
+
 M:karihoffman@neuromatch.social
+
 @karihoffman.bsky.social
