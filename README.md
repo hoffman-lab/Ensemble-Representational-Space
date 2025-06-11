@@ -1,9 +1,10 @@
 # Project Description
 What are the meaningful changes in the brain with experience, that allows for adaptive behavior? How does the brain create and deploy knowledge? When we look at the coordinated activity across spiking networks of neuronal ensembles, we see a delicate balance of stability and flexibility, as needed for a system that can both learn and remember. In this project, we present a population of simultaneously-recorded neurons from the non-human primate during learning of a complex sequence memory task, and in sleep afterwards. These data are exceptionally rich for exploration, and allow us to address questions such as: 
-  1. What behavioral states can we decode from the ensembles,
-  2. What is the core representational geometry of the ensembles (what factors are best preserved/differentiated in low-dimensional latent spaces).
-  3. How does the geometry constrain the computations and dynamics of the network?
+  1. What behavioral states can we decode from these ensembles?
+  2. What is the core representational geometry (what factors are best preserved/differentiated in low-dimensional subspaces)?
+  3. How does geometry constrain the computations and dynamics of the network?
   4. Does ensemble activity drift with time or experience, and if so, how?
+  5. How do geometry and stability vary by brain region (e.g. prefrontal, hippocampal, early sensory)? As a function of contributing cell types?
 
 Here's an illustration to highlight the collective patterns of activity of [neural ensembles in macaque hippocampus](https://www.youtube.com/watch?v=PVLZRPLcwW4) taken during sleep, that may reflect activation during recent experience. 
 
@@ -31,7 +32,7 @@ Intuitive graphic demo hi-dimensions to low-D projections, 2-D and 3-D
 Side by side comparisons you can explore
 
 # References
-The data come from recordings described [in this paper](https://doi.org/10.1016/j.celrep.2024.114519) (Abbaspoor and Hoffman, Cell Reports, 2024).
+The data come from recordings described [in this paper](https://www.biorxiv.org/content/10.1101/2025.04.08.647787v1) (Abbaspoor, Aljishi, and Hoffman,bioRxiv 2025) and [in this paper](https://doi.org/10.1016/j.celrep.2024.114519) (Abbaspoor and Hoffman, Cell Reports, 2024).
 
 The task is described [in this paper](https://www.biorxiv.org/content/10.1101/2023.12.11.571113v1) (Abbaspoor, Rahman, Zinke and Hoffman, bioRxiv, 2023).
 
@@ -39,8 +40,5 @@ The task is described [in this paper](https://www.biorxiv.org/content/10.1101/20
 Funding: Whitehall Foundation and NINDS R01 NS127128 to KLH
 The lab has some limited openings for postdoctoral fellows. If interested, contact Kari Hoffman (kari.hoffman@vanderbilt.edu) for more info, or:
 
-X: @perpl_lab
-
 M:karihoffman@neuromatch.social
-
 @karihoffman.bsky.social
